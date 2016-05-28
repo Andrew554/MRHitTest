@@ -37,8 +37,6 @@
 
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
     
-    NSLog(@"点击%@", [self class]);
-    
     NSLog(@"%s", __func__);
 }
 

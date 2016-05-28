@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6023D8251CF97D3300CF4B9D /* MRHitTestView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6023D8241CF97D3300CF4B9D /* MRHitTestView.m */; };
 		606FA5541CF88D6000A1C05B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 606FA5531CF88D6000A1C05B /* main.m */; };
 		606FA5571CF88D6000A1C05B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 606FA5561CF88D6000A1C05B /* AppDelegate.m */; };
 		606FA55A1CF88D6000A1C05B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 606FA5591CF88D6000A1C05B /* ViewController.m */; };
@@ -36,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6023D8231CF97D3300CF4B9D /* MRHitTestView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MRHitTestView.h; sourceTree = "<group>"; };
+		6023D8241CF97D3300CF4B9D /* MRHitTestView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MRHitTestView.m; sourceTree = "<group>"; };
 		606FA54F1CF88D6000A1C05B /* MRHitTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MRHitTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		606FA5531CF88D6000A1C05B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		606FA5551CF88D6000A1C05B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -108,6 +111,8 @@
 				606FA5561CF88D6000A1C05B /* AppDelegate.m */,
 				606FA5581CF88D6000A1C05B /* ViewController.h */,
 				606FA5591CF88D6000A1C05B /* ViewController.m */,
+				6023D8231CF97D3300CF4B9D /* MRHitTestView.h */,
+				6023D8241CF97D3300CF4B9D /* MRHitTestView.m */,
 				607DE9381CF88E8A003801D4 /* MRView.h */,
 				607DE9391CF88E8A003801D4 /* MRView.m */,
 				606FA5521CF88D6000A1C05B /* Supporting Files */,
@@ -279,6 +284,7 @@
 				607DE93A1CF88E8A003801D4 /* MRView.m in Sources */,
 				606FA5571CF88D6000A1C05B /* AppDelegate.m in Sources */,
 				606FA5541CF88D6000A1C05B /* main.m in Sources */,
+				6023D8251CF97D3300CF4B9D /* MRHitTestView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
